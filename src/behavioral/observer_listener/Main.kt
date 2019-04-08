@@ -12,10 +12,4 @@ fun main() {
         text = "Keno"
     }
 
-
-    var str = "Hello mostasim"
-    with(str) {
-        println(length)
-    }
-
 }
